@@ -12,7 +12,7 @@
     "web-vitals": "^2.1.2"
   },
   "scripts": {
-    "server" : "npm run build&&node server.js"
+    "server" : "node server.js"
   },
   "engines": {
     "node": "12"
